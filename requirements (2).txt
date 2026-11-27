@@ -1,0 +1,4 @@
+streamlit>=1.37
+cryptography>=42
+Pillow>=9.1
+gTTS>=2.5
